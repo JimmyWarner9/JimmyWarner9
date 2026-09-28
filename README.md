@@ -1,7 +1,11 @@
-                                                     Muhammad Hakimi bin Abdul Malik
+# Muhammad Hakimi bin Abdul Malik
 
 <p align="center">
   <img src="MyPic.jpeg" alt="Muhammad Hakimi" width="320">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&lines=AI+%2F+ML+Engineer;Cybersecurity+Enthusiast;Co-Founder+%40+Jimmy+Warner+Network;Software+Engineering+Student" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -19,20 +23,67 @@
 
 ---
 
+## Now
+
+**Co-Founder @ Jimmy Warner Network:** building AI and cybersecurity products, from machine learning and computer vision to IoT.
+
+**Studying:** HND Computer Software Engineering at Ungku Omar Polytechnic (2026 to 2028).
+
+**Building:** [Pakdin Dalca](https://github.com/JimmyWarner9/pakdindalca), [Carmila Cafe](https://github.com/JimmyWarner9/CarmilaCafe), and an [AI startup investor page](https://github.com/JimmyWarner9/ai-startup-investor-page).
+
+**Try it:** an interactive [360° digital room](https://jimmywarner9.github.io/Bilik-Digital-360/) you can explore in the browser.
+
+**Open to:** collaborations, internships, and opportunities in AI, software, and cybersecurity.
+
+---
+
 ## About
 
-I'm a co-founder and AI/ML engineer, and a Computer Software Engineering student at Ungku Omar Polytechnic. I co-founded **Jimmy Warner Network** in 2024, a startup focused on AI and cybersecurity. Before that I completed a Foundation in Computer Science at the University of Southampton and an IT certificate at College Community Gerik. I've also worked as an IT intern at Acer and as a crew member and content creator at Richiamo Coffee.
+I'm a co-founder and AI/ML engineer, and a Computer Software Engineering student at Ungku Omar Polytechnic. I co-founded **Jimmy Warner Network** in 2024, a startup focused on AI and cybersecurity. I'm interested in AI, aerospace, networking, and robotics, and I like turning messy requirements into software people can actually use.
 
-- Studying HND Computer Software Engineering (2026 to 2028)
-- Building Jimmy Warner Network
-- Interested in AI, aerospace, networking, and robotics
-- Open to collaborations and opportunities
+<details>
+<summary><b>Experience</b></summary>
+
+- **Co-Founder**, Jimmy Warner Network (Aug 2024 to now)
+- **Crew Mart & Content Creator**, Richiamo Coffee (Apr to Aug 2025)
+- **IT Intern**, Acer (Jan to Feb 2025)
+
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+
+- **HND Computer Software Engineering**, Ungku Omar Polytechnic (2026 to 2028)
+- **IT Certificate**, College Community Gerik (Aug 2024 to Feb 2025)
+- **Foundation in Computer Science**, University of Southampton (2017 to 2018)
+
+</details>
+
+## My journey
+
+```mermaid
+timeline
+    title Timeline
+    2017 : Foundation in Computer Science, University of Southampton
+    2022 : Started Stardust and Moonwalk AI
+    2024 : Co-founded Jimmy Warner Network
+         : IT certificate, College Community Gerik
+    2025 : IT Intern at Acer
+         : Content creator at Richiamo Coffee
+    2026 : HND Software Engineering, Ungku Omar Polytechnic
+```
 
 ## Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,django,aws,c,cpp,js,html,css,git" alt="Skills">
+</p>
 
 **AI & Data:** PyTorch · Data Modeling · Game AI · Robotic Process Automation
 **Software & Cloud:** Django · Cloud Computing · AWS IoT · Embedded Software · IntelliJ IDEA
 **Systems:** Robot Operating System (ROS) · IoT · Windows · Laragon
+
+---
 
 ## Selected work
 
@@ -67,24 +118,4 @@ Website for a cafe, with menu and brand presentation.
 ### [AI Startup Investor Page](https://github.com/JimmyWarner9/ai-startup-investor-page)
 Landing page presenting an AI startup to potential investors.
 
-## Now
-
-**Co-Founder @ Jimmy Warner Network:** building AI and cybersecurity products, from machine learning and computer vision to IoT.
-
-**Studying:** HND Computer Software Engineering at Ungku Omar Polytechnic.
-
-**Building:** [Pakdin Dalca](https://github.com/JimmyWarner9/pakdindalca), [Carmila Cafe](https://github.com/JimmyWarner9/CarmilaCafe), and an [AI startup investor page](https://github.com/JimmyWarner9/ai-startup-investor-page).
-
-**Try it:** an interactive [360° digital room](https://jimmywarner9.github.io/Bilik-Digital-360/) you can explore in the browser.
-
-**Open to:** collaborations, internships, and opportunities in AI, software, and cybersecurity.
-
-<details>
-<summary><b>Experience</b></summary>
-
-- **Co-Founder**, Jimmy Warner Network (2024 to now)
-- **IT Intern**, Acer (Jan to Feb 2025)
-- **Crew & Content Creator**, Richiamo Coffee (Apr to Aug 2025)
-
-</details>
-
+**HTML · CSS**
