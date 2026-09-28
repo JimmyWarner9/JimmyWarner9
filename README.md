@@ -79,3 +79,12 @@ Landing page presenting an AI startup to potential investors.
 
 **Open to:** collaborations, internships, and opportunities in AI, software, and cybersecurity.
 
+<details>
+<summary><b>Experience</b></summary>
+
+- **Co-Founder**, Jimmy Warner Network (2024 to now)
+- **IT Intern**, Acer (Jan to Feb 2025)
+- **Crew & Content Creator**, Richiamo Coffee (Apr to Aug 2025)
+
+</details>
+
