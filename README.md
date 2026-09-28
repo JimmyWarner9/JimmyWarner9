@@ -1,7 +1,5 @@
 <img src="bannergithubjimmy.svg" alt="Muhammad Hakimi: AI/ML Engineer, Cybersecurity, Co-Founder" width="100%">
 
-# ***Muhammad Hakimi bin Abdul Malik***
-
 <p align="center">
   <img src="MyPic.jpeg" alt="Muhammad Hakimi" width="320">
 </p>
