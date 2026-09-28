@@ -362,15 +362,26 @@ A landing page designed to present an AI startup concept to potential investors.
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JimmyWarner9&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://streak-stats.demolab.com?user=JimmyWarner9&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
