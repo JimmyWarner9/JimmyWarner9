@@ -78,4 +78,4 @@ Landing page presenting an AI startup to potential investors.
 **Try it:** an interactive [360° digital room](https://jimmywarner9.github.io/Bilik-Digital-360/) you can explore in the browser.
 
 **Open to:** collaborations, internships, and opportunities in AI, software, and cybersecurity.
-**HTML · CSS**
+
