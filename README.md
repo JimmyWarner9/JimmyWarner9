@@ -67,4 +67,15 @@ Website for a cafe, with menu and brand presentation.
 ### [AI Startup Investor Page](https://github.com/JimmyWarner9/ai-startup-investor-page)
 Landing page presenting an AI startup to potential investors.
 
+## Now
+
+**Co-Founder @ Jimmy Warner Network:** building AI and cybersecurity products, from machine learning and computer vision to IoT.
+
+**Studying:** HND Computer Software Engineering at Ungku Omar Polytechnic.
+
+**Building:** [Pakdin Dalca](https://github.com/JimmyWarner9/pakdindalca), [Carmila Cafe](https://github.com/JimmyWarner9/CarmilaCafe), and an [AI startup investor page](https://github.com/JimmyWarner9/ai-startup-investor-page).
+
+**Try it:** an interactive [360° digital room](https://jimmywarner9.github.io/Bilik-Digital-360/) you can explore in the browser.
+
+**Open to:** collaborations, internships, and opportunities in AI, software, and cybersecurity.
 **HTML · CSS**
