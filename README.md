@@ -40,10 +40,12 @@ An AI project from Jimmy Warner Network, built with Python, data science, and ma
 
 ---
 
-### AR 360 Digital Room
-A digital room project using AR and 360 video to create an interactive space.
+### [AR 360 Digital Room](https://jimmywarner9.github.io/Bilik-Digital-360/)
+An interactive 360° digital room you can explore in the browser.
 
 **AR · 360 Video · Panopto**
+
+<a href="https://jimmywarner9.github.io/Bilik-Digital-360/"><img src="https://img.shields.io/badge/Live_Demo-Open_360_Room-0d1117?style=flat&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 
 ---
 
