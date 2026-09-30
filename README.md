@@ -107,7 +107,7 @@ timeline
 <img src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
 
-<img src="https://raw.githubusercontent.com/JimmyWarner9/JimmyWarner9/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+<img src="dragonfly.svg" alt="Pixel dragonfly" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=110&section=footer" width="100%" alt="">
 
