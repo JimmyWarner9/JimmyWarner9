@@ -91,22 +91,8 @@ timeline
 
 <div align="center">
 
+**Learn → Build → Break → Fix → Improve → Ship → Repeat**
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-<img src="philosophy-bg.svg" alt="Animated background" width="100%">
-
-<div align="center">
-
-</div>
-  <rect width="900" height="260" rx="16" fill="url(#bg)"/>
-  <rect class="star" x="120" y="40" width="4" height="4"/>
-  <rect class="star s2" x="400" y="70" width="4" height="4"/>
-  <rect class="star s3" x="700" y="35" width="4" height="4"/>
-  <rect class="star" x="820" y="150" width="4" height="4"/>
-  <rect class="star s2" x="60" y="200" width="4" height="4"/>
-  <text class="title" x="40" y="120">Muhammad Hakimi</text>
-  <text class="sub" x="40" y="165">AI / ML Engineer</text>
-</svg>
 </div>
 
 ---
@@ -120,6 +106,8 @@ timeline
 
 <img src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN"><img src="now-playing.svg" alt="Now Playing — Spotify playlist" width="480"></a>
 
 <img src="dragonfly.svg" alt="Pixel dragonfly" width="100%">
 
