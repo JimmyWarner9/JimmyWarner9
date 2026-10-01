@@ -92,7 +92,33 @@ timeline
 <div align="center">
 
 **Learn → Build → Break → Fix → Improve → Ship → Repeat**
-
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0b2a3a;#1a1033;#0d1117" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0b2a3a">
+        <animate attributeName="stop-color" values="#0b2a3a;#1a1033;#0d1117;#0b2a3a" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .star { fill:#fff; animation: twinkle 2.5s infinite ease-in-out; }
+      .s2 { animation-delay: .8s; } .s3 { animation-delay: 1.6s; }
+      @keyframes twinkle { 0%,100%{opacity:.1} 50%{opacity:1} }
+      .title { font: 700 56px sans-serif; fill:#fff; }
+      .sub { font: 400 26px sans-serif; fill:#22d3ee; }
+    </style>
+  </defs>
+  <rect width="900" height="260" rx="16" fill="url(#bg)"/>
+  <rect class="star" x="120" y="40" width="4" height="4"/>
+  <rect class="star s2" x="400" y="70" width="4" height="4"/>
+  <rect class="star s3" x="700" y="35" width="4" height="4"/>
+  <rect class="star" x="820" y="150" width="4" height="4"/>
+  <rect class="star s2" x="60" y="200" width="4" height="4"/>
+  <text class="title" x="40" y="120">Muhammad Hakimi</text>
+  <text class="sub" x="40" y="165">AI / ML Engineer</text>
+</svg>
 </div>
 
 ---
