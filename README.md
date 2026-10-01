@@ -91,15 +91,11 @@ timeline
 
 <div align="center">
 
-**Learn → Build → Break → Fix → Improve → Ship → Repeat**
+
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
 <img src="philosophy-bg.svg" alt="Animated background" width="100%">
 
 <div align="center">
-
-**Learn → Build → Break → Fix → Improve → Ship → Repeat**
-
-<img src="philosophy-bg.svg" alt="Animated background" width="100%">
 
 </div>
   <rect width="900" height="260" rx="16" fill="url(#bg)"/>
