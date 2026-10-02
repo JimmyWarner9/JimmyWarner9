@@ -1,4 +1,4 @@
-<img src="bannergithubjimmy.svg" alt="Muhammad Hakimi — Founder · AI/ML · Cybersecurity" width="100%">
+<img src="banner-hakimi.svg" alt="Muhammad Hakimi — Founder · AI/ML · Cybersecurity" width="100%">
 
 <div align="center">
 
@@ -33,6 +33,8 @@ My long-term direction sits where **AI, cybersecurity, and software engineering*
 ---
 
 ## ✦ The Venture
+
+<img src="jimmy-warner-network-animated.svg" alt="Jimmy Warner Network — Empowering AI Cybersecurity Defenses" width="100%">
 
 | | |
 |---|---|
