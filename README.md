@@ -34,6 +34,8 @@ My long-term direction sits where **AI, cybersecurity, and software engineering*
 
 ## ✦ The Venture
 
+<img src="jimmy-warner-network-animated.svg" alt="Jimmy Warner Network — Empowering AI Cybersecurity Defenses" width="100%">
+
 | | |
 |---|---|
 | **Company** | Jimmy Warner Network, Co-Founder (Aug 2024 – Present) |
