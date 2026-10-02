@@ -1,4 +1,4 @@
-<img src="banner-hakimi.svg" alt="Muhammad Hakimi — Founder · AI/ML · Cybersecurity" width="100%">
+<img src="founder-banner.svg" alt="Muhammad Hakimi — Founder · AI/ML · Cybersecurity" width="100%">
 
 <div align="center">
 
@@ -83,36 +83,4 @@ timeline
          : Started IT Certificate, Kolej Komuniti Gerik
     2025 : IT Intern at Acer
          : Crew & Content Creator at Richiamo Coffee
-    2026 : Started HND Computer Software Engineering
-    Next : AI/ML · Cybersecurity · AI product development
-```
-
----
-
-## ✦ Philosophy
-
-<div align="center">
-
-**Learn → Build → Break → Fix → Improve → Ship → Repeat**
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something worth shipping.
-
-<a href="https://www.linkedin.com/in/muhammad-hakimi-b7a906297"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hakimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/JimmyWarner9"><img src="https://img.shields.io/badge/GitHub-JimmyWarner9-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
-
-<a href="https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN"><img src="now-playing.svg" alt="Now Playing — Spotify playlist" width="480"></a>
-
-<img src="dragonfly.svg" alt="Pixel dragonfly" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:0d1117&height=110&section=footer" width="100%" alt="">
-
-</div>
+    2026 : Started HND
