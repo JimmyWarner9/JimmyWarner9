@@ -2,15 +2,15 @@
 
 # Muhammad Hakimi
 
-Founder of **Jimmy Warner Network** · Exploring AI and cybersecurity
+Founder of **Jimmy Warner Network** · Building clearer security investigations
 
-I’m a solo founder bringing my interests in software engineering, machine learning, and network security into a focused product direction. I also build web projects that turn ideas into experiences people can explore.
+I’m a solo founder working at the intersection of software engineering and cybersecurity. My focus is helping people understand security events and follow the evidence. I also build web experiences that bring ideas to life.
 
 [Company website](https://jimmy-warner-network.pages.dev) · [Company LinkedIn](https://www.linkedin.com/company/jimmy-warner-network/) · [GitLab](https://gitlab.com/groups/jimmywarnernetwork-group1)
 
 ## Jimmy Warner Network
 
-An independent, early-stage venture exploring clearer security investigations and decisions grounded in evidence.
+An independent, early-stage venture building security tools around useful context and human review.
 
 | Focus | Direction |
 | --- | --- |
@@ -18,9 +18,11 @@ An independent, early-stage venture exploring clearer security investigations an
 | Network visibility | Make related activity easier to follow. |
 | Response workflows | Keep people in control of the next step. |
 
-**Current stage:** the company website and interactive concept are live. The concept uses synthetic security events. AI analysis, live monitoring, and security integrations are future development goals. The website’s contact form saves inquiries to Cloudflare D1.
+**First product:** a browser-based log investigation prototype. Upload JSON, JSONL, or CSV logs, review authentication rule matches and their supporting events, search the event log, and export an investigation report. Uploaded log contents are processed locally in browser memory.
 
-[Explore the concept](https://jimmy-warner-network.pages.dev/#approach) · [Share a perspective](https://jimmy-warner-network.pages.dev/#contact)
+The prototype uses deterministic rules. AI-assisted analysis, live monitoring, and security integrations are future development goals.
+
+[Try log investigation](https://jimmy-warner-network.pages.dev/investigate) · [Share feedback](https://jimmy-warner-network.pages.dev/#contact)
 
 ## Selected projects
 
