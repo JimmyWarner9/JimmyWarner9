@@ -1,118 +1,37 @@
-<img src="bannergithubjimmy.svg" alt="Muhammad Hakimi — Founder · AI/ML · Cybersecurity" width="100%">
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="MyPic.jpeg" alt="Then" width="280"><br><sub><b>THEN</b> · always curious</sub></td>
-<td align="center"><img src="pixel-boy-gaming.svg" alt="Player 1 — Founder Mode" width="380"><br><sub><b>NOW</b> · still playing, now building</sub></td>
-</tr>
-</table>
+![Jimmy Warner Network](https://jimmy-warner-network.pages.dev/images/jimmy-warner-banner.png)
 
 # Muhammad Hakimi
 
-**Co-Founder, Jimmy Warner Network**
-*AI · Machine Learning · Cybersecurity · Software Engineering*
+Founder of **Jimmy Warner Network** · Exploring AI and cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=620&lines=Building+intelligent+systems;Turning+ideas+into+shipped+products;AI+%2B+Cybersecurity+%2B+Software" alt="Typing animation">
+I’m a solo founder bringing my interests in software engineering, machine learning, and network security into a focused product direction. I also build web projects that turn ideas into experiences people can explore.
 
-<a href="https://www.linkedin.com/in/muhammad-hakimi-b7a906297"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/JimmyWarner9"><img src="https://img.shields.io/badge/GitHub-JimmyWarner9-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://jimmywarner9.github.io/Bilik-Digital-360/"><img src="https://img.shields.io/badge/360°_Room-Live_Demo-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+[Company website](https://jimmy-warner-network.pages.dev) · [Company LinkedIn](https://www.linkedin.com/company/jimmy-warner-network/) · [GitLab](https://gitlab.com/groups/jimmywarnernetwork-group1)
 
-</div>
+## Jimmy Warner Network
 
----
+An independent, early-stage venture exploring clearer security investigations and decisions grounded in evidence.
 
-## ✦ Founder's Note
+| Focus | Direction |
+| --- | --- |
+| Threat intelligence | Give security events useful context. |
+| Network visibility | Make related activity easier to follow. |
+| Response workflows | Keep people in control of the next step. |
 
-> I build intelligent software that solves real problems, from an idea, to research, to design, to a product people actually use.
+**Current stage:** the company website and interactive concept are live. The concept uses synthetic security events. AI analysis, live monitoring, and security integrations are future development goals. The website’s contact form saves inquiries to Cloudflare D1.
 
-My long-term direction sits where **AI, cybersecurity, and software engineering** meet: products that can detect, automate, and respond.
+[Explore the concept](https://jimmy-warner-network.pages.dev/#approach) · [Share a perspective](https://jimmy-warner-network.pages.dev/#contact)
 
----
+## Selected projects
 
-## ✦ The Venture
+| Project | Experience | Link |
+| --- | --- | --- |
+| **360 Digital Room** | An immersive room experience. | [Explore](https://jimmywarner9.github.io/Bilik-Digital-360/) |
+| **Pakdin Dalca** | A restaurant website. | [Repository](https://github.com/JimmyWarner9/pakdindalca) |
+| **Carmila Cafe** | A cafe website. | [Repository](https://github.com/JimmyWarner9/CarmilaCafe) |
 
-<img src="jimmy-warner-network-animated.svg" alt="Jimmy Warner Network — Empowering AI Cybersecurity Defenses" width="100%">
+## Connect
 
-| | |
-|---|---|
-| **Company** | Jimmy Warner Network, Co-Founder (Aug 2024 – Present) |
-| **Focus** | AI products · Machine learning · Cybersecurity · Automation · Digital products |
-| **Studying** | HND Computer Software Engineering, Ungku Omar Polytechnic (2026–2028) |
-| **Open to** | AI/ML roles · Startup collaborations · Security projects · Open source · Research |
+I welcome conversations with security practitioners, developers, and potential collaborators about investigation challenges and useful product ideas.
 
----
-
-## ✦ Selected Work
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[360° Digital Room](https://jimmywarner9.github.io/Bilik-Digital-360/)** | Browser-based immersive room with hotspots, popups and navigation | Pano2VR · HTML5 · Canva |
-| **[Pakdin Dalca](https://github.com/JimmyWarner9/pakdindalca)** | Restaurant site with menu, catering, cart and WhatsApp ordering | HTML · CSS · JS |
-| **[Carmila Cafe](https://github.com/JimmyWarner9/CarmilaCafe)** | Brand-focused cafe website | HTML · CSS · JS |
-| **[AI Startup Investor Page](https://github.com/JimmyWarner9/ai-startup-investor-page)** | Investor-facing landing page for an AI startup concept | HTML · CSS |
-| **Stardust & Moonwalk AI** | Exploring ML, game AI and intelligent systems | Python · ML · Data Science |
-
----
-
-## ✦ Capabilities
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,js,html,css,django,aws,git,github,vscode" alt="Tech stack">
-</p>
-
-```text
-AI / ML        →  PyTorch · Data Modeling · Computer Vision · Game AI · Automation
-Security       →  Network Security · Threat Detection · Security Automation · Secure Development
-Software       →  Django · JavaScript · C / C++ · Responsive Web
-Cloud & Tools  →  AWS · Git · GitHub · IntelliJ IDEA · Laragon
-```
-
----
-
-## ✦ Journey
-
-```mermaid
-timeline
-    title Muhammad Hakimi
-    2017 : Foundation in Computer Science, University of Southampton
-    2022 : Began exploring Stardust & Moonwalk AI
-    2024 : Co-founded Jimmy Warner Network
-         : Started IT Certificate, Kolej Komuniti Gerik
-    2025 : IT Intern at Acer
-         : Crew & Content Creator at Richiamo Coffee
-    2026 : Started HND Computer Software Engineering
-    Next : AI/ML · Cybersecurity · AI product development
-```
-
----
-
-## ✦ Philosophy
-
-<div align="center">
-
-**Learn → Build → Break → Fix → Improve → Ship → Repeat**
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something worth shipping.
-
-<a href="https://www.linkedin.com/in/muhammad-hakimi-b7a906297"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hakimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/JimmyWarner9"><img src="https://img.shields.io/badge/GitHub-JimmyWarner9-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=JimmyWarner9&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyWarner9&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170">
-
-<a href="https://open.spotify.com/playlist/37i9dQZF1E4oee5QSbfqLN"><img src="now-playing.svg" alt="Now Playing — Spotify playlist" width="480"></a>
-
-<img src="dragonfly.svg" alt="Pixel dragonfly" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=110&section=footer" width="100%" alt="">
-
-</div>
+[Personal LinkedIn](https://www.linkedin.com/in/muhammad-hakimi-b7a906297/) · [Contact Jimmy Warner Network](https://jimmy-warner-network.pages.dev/#contact)
